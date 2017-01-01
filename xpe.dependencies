@@ -1,0 +1,18 @@
+[
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "remote": "cm",
+    "repository": "LineageOS/android_kernel_motorola_msm8974",
+    "target_path": "kernel/motorola/msm8974",
+    "branch":      "cm-14.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":      "cm-14.1"
+  }
+]
