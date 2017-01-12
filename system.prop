@@ -104,3 +104,6 @@ ro.disableWifiApFirmwareReload=true
 
 # Bluetooth
 qcom.bluetooth.soc=smd
+
+#Activate burn-in protection
+ro.systemui.burn_in_protection=true
